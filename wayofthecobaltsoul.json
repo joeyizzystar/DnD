@@ -1,0 +1,93 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Matt Mercer",
+				"abbreviation": "MM",
+				"full": "Matt Mercer's Mind",
+				"authors": [
+					"Matt Mercer"
+				],
+				"convertedBy": [
+					"Conor Meyers"
+				],
+				"version": "2020.0",
+				"url": "http://dnd5e.wikidot.com/monk:cobalt-soul",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1591747200,
+		"dateLastModified": 1591747200
+	},
+	"subclass": [
+		{
+			"class": "Monk",
+			"name": "Way of the Cobalt Soul",
+			"shortName": "Cobalt Soul",
+			"source": "Matt Mrcer",
+			"page": 69,
+			"subclassFeatures": [
+				[
+					{
+						"name": "Way of the Cobalt Soul",
+						"entries": [
+							"The monks of the Cobalt Soul are the embodiment of the phrase “know your enemy”. Through research, they prepare themselves against the ever-coming tides of evil. Through careful training, they have learned to puncture and manipulate the spiritual flow of an opponent’s body. Through understanding the secrets of their foe, they can adapt and surmount them. Then, once the fight is done, they return to record their findings for future generations of monks to study from.",
+							{
+								"name": "Mystical Erudition",
+								"entries": [
+									"Upon choosing this tradition at 3rd level, you’ve undergone extensive training with the Cobalt Soul, teaching you extensively in history or lore from the monastery’s collected volumes. You learn one language of your choice, and you choose one skill from the following list to gain proficiency in: Arcana, History, Nature, and Religion.",
+									"You gain an additional language and an additional skill proficiency from the above list at 11th and 17th level. If you already have proficiency in one of the listed skills at 11th or 17th level, you can instead choose to double your proficiency bonus for any ability check you make that uses the chosen proficiency."
+								]
+							},
+							{
+								"name": "Extract Aspects",
+								"entries": [
+									"Beginning at 3rd level when choosing this tradition, you can strike multiple pressure points to extract crucial information about your foe. Whenever you hit a single creature with one of the attacks granted by your Flurry of Blows, you learn the creature's Damage Vulnerabilities, Damage Resistances, Damage Immunities, and Condition Immunities. Once you use this feature, you must finish a short or long rest before you can use it again.",
+									"Upon reaching 6th level, you can use this feature twice between rests, and beginning at 17th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"name": "Preternatural Counter",
+								"entries": [
+									"Beginning at 6th level, your quick mind and study of your foe allows you to use their failure to your advantage. If a creature misses you with an attack, you can immediately use your reaction to make a melee attack against that creature."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"name": "Mind of Mercury",
+								"entries": [
+									"Starting at 11th level, you’ve honed your awareness and reflexes through mental aptitude and pattern recognition. You can take a number of additional reactions each round equal to your Intelligence modifier (minimum of 1), at the cost of 1 ki point per reaction beyond the first. You can only use one reaction per trigger.",
+									"In addition, whenever you make an Intelligence (Investigation) check, you can spend 1 ki point to gain advantage on the roll."
+								]
+							}
+						]
+					}
+				],
+				[
+					{
+						"entries": [
+							{
+								"name": "Debilitating Barrage",
+								"entries": [
+									"Upon reaching 17th level, you’ve gained the knowledge to temporarily lower a creature’s fortitude by striking a series of pressure points. Whenever you hit a single creature with three or more attacks in one round, you can spend 3 ki points to cause the creature to suffer a vulnerability to a damage type of your choice for 1 minute, or until after they take any damage of that type.",
+									"Creatures with resistance or immunity to the chosen damage type do not suffer vulnerability. Instead, their resistance to the chosen damage type is lost for the duration, or their immunity is reduced to resistance for the duration."
+								]
+							}
+						]
+					}
+				]
+			]
+		}
+	]
+}
